@@ -59,3 +59,6 @@ img {
 }
 
 /* create your tile classes! we recommend .small .med .large */
+.medium {
+  width: 200%;
+}
